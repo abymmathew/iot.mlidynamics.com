@@ -1,17 +1,43 @@
-# Npm install files
-node_modules
-npm-debug.log
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
 
-# Config files
-config.js
+# Folder config file
+Desktop.ini
 
-# Log file
-skynet.txt
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
 
-# Swap and meta data files
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
 .DS_Store
-*.swp
-*.swo
+.AppleDouble
+.LSOverride
 
-#NEDB files
-*.db
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
